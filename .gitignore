@@ -1,0 +1,20 @@
+# Data (not redistributed: see data/README.md)
+dataset_raw/
+dataset_csv/
+*.mat
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+*.egg-info/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
