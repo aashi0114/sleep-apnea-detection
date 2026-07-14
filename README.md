@@ -6,7 +6,7 @@ Sleep apnea affects close to one billion people worldwide, and an estimated 80 t
 
 This project compares five interpretable machine-learning models against that threshold baseline, using six physiologically grounded features extracted from ECG and pulse oximetry. The best model reaches a participant-level AUC of **0.958**, against **0.694** for the threshold rule. A working hardware prototype integrating both sensors was built for approximately **twenty dollars**.
 
-Preprint: [Zenodo DOI — add link]
+Preprint: https://doi.org/10.5281/zenodo.21343611
 
 ---
 
@@ -91,7 +91,7 @@ The prototype integrates a pulse-oximetry sensor and a single-lead ECG sensor fo
 
 If you use this code, please cite the preprint:
 
-> Gupta, A. (2026). *A Low-Cost, Interpretable Machine-Learning System for Sleep Apnea Detection Using ECG and SpO₂ Signals.* Zenodo. [DOI]
+> Gupta, A. (2026). *A Low-Cost, Interpretable Machine-Learning System for Sleep Apnea Detection Using ECG and SpO₂ Signals.* Zenodo. https://doi.org/10.5281/zenodo.21343611
 
 ---
 
